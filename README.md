@@ -22,7 +22,7 @@ BMI Calculator is a straightforward and user-friendly app designed to help you m
 
 BMI Calculator is more than just a calculator – it's your pocket-sized health companion. Download now and take the first step toward a healthier, more informed you!
 
-** Screen Shots**
+Screen Shots
 
 ![App View](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/5366585e-b813-42a5-b976-b45ecc60934a)
 ![Splash Screen](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/7949e54d-8f38-427c-ad85-31c2c1e677b8)
