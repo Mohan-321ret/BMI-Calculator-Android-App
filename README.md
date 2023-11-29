@@ -4,7 +4,7 @@
 
 BMI Calculator is a straightforward and user-friendly app designed to help you monitor and manage your Body Mass Index (BMI) effortlessly. Whether you're on a fitness journey, maintaining a healthy lifestyle, or just curious about your current health status, this app is your go-to companion.
 
-** Features:**
+* Features:*
 
 1. **Easy Input:** Input your height and weight with just a few taps. The app supports both metric and imperial units, ensuring convenience for users around the world.
 
