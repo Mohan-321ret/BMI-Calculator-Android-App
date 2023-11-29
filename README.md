@@ -1,6 +1,6 @@
 **App Name: BMI Calculator**
 **App Logo**
-*![App View](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/5366585e-b813-42a5-b976-b45ecc60934a)*
+![App View](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/5366585e-b813-42a5-b976-b45ecc60934a)
 
 **Splash Screen**
 ![Splash Screen](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/7949e54d-8f38-427c-ad85-31c2c1e677b8)
