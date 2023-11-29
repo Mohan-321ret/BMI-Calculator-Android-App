@@ -1,16 +1,12 @@
 **App Name: BMI Calculator**
 **App Logo**
-![App View](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/5366585e-b813-42a5-b976-b45ecc60934a)
-
 **Splash Screen**
-![Splash Screen](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/7949e54d-8f38-427c-ad85-31c2c1e677b8)
-
 **Home Screen 1**
-![Home Screen 1](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/e63d80c5-bf43-46d8-a458-7b5aea3d3daf)
-
 **Home Screen 2**
+![App View](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/5366585e-b813-42a5-b976-b45ecc60934a)
+![Splash Screen](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/7949e54d-8f38-427c-ad85-31c2c1e677b8)
+![Home Screen 1](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/e63d80c5-bf43-46d8-a458-7b5aea3d3daf)
 ![Home Screen 2](https://github.com/Mohan-321ret/BMI-Calculator-Android-App/assets/98017458/abc40d83-e81e-4968-b2fd-3829d55be607)
-
 
 **Description:**
 
